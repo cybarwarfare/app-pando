@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/app-pando/static/css/main.5f361e03.chunk.css",
+    "main.js": "/app-pando/static/js/main.6758e3dc.chunk.js",
+    "main.js.map": "/app-pando/static/js/main.6758e3dc.chunk.js.map",
+    "runtime-main.js": "/app-pando/static/js/runtime-main.bc2693c3.js",
+    "runtime-main.js.map": "/app-pando/static/js/runtime-main.bc2693c3.js.map",
+    "static/js/2.7ee139fc.chunk.js": "/app-pando/static/js/2.7ee139fc.chunk.js",
+    "static/js/2.7ee139fc.chunk.js.map": "/app-pando/static/js/2.7ee139fc.chunk.js.map",
+    "index.html": "/app-pando/index.html",
+    "precache-manifest.089459a555165aa2a15b1fd7163dc949.js": "/app-pando/precache-manifest.089459a555165aa2a15b1fd7163dc949.js",
+    "service-worker.js": "/app-pando/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/app-pando/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7ee139fc.chunk.js.LICENSE.txt": "/app-pando/static/js/2.7ee139fc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/app-pando/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc2693c3.js",
+    "static/js/2.7ee139fc.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6758e3dc.chunk.js"
+  ]
+}
