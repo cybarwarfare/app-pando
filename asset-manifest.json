@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/app-pando/static/css/main.5f361e03.chunk.css",
-    "main.js": "/app-pando/static/js/main.6758e3dc.chunk.js",
-    "main.js.map": "/app-pando/static/js/main.6758e3dc.chunk.js.map",
-    "runtime-main.js": "/app-pando/static/js/runtime-main.bc2693c3.js",
-    "runtime-main.js.map": "/app-pando/static/js/runtime-main.bc2693c3.js.map",
-    "static/js/2.7ee139fc.chunk.js": "/app-pando/static/js/2.7ee139fc.chunk.js",
-    "static/js/2.7ee139fc.chunk.js.map": "/app-pando/static/js/2.7ee139fc.chunk.js.map",
+    "main.css": "/app-pando/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/app-pando/static/js/main.d66759e8.chunk.js",
+    "main.js.map": "/app-pando/static/js/main.d66759e8.chunk.js.map",
+    "runtime-main.js": "/app-pando/static/js/runtime-main.36d30237.js",
+    "runtime-main.js.map": "/app-pando/static/js/runtime-main.36d30237.js.map",
+    "static/css/2.b234b7d0.chunk.css": "/app-pando/static/css/2.b234b7d0.chunk.css",
+    "static/js/2.c9c7d9ad.chunk.js": "/app-pando/static/js/2.c9c7d9ad.chunk.js",
+    "static/js/2.c9c7d9ad.chunk.js.map": "/app-pando/static/js/2.c9c7d9ad.chunk.js.map",
     "index.html": "/app-pando/index.html",
-    "precache-manifest.089459a555165aa2a15b1fd7163dc949.js": "/app-pando/precache-manifest.089459a555165aa2a15b1fd7163dc949.js",
+    "precache-manifest.f67421cd57a72e2fffc7586fab0b3209.js": "/app-pando/precache-manifest.f67421cd57a72e2fffc7586fab0b3209.js",
     "service-worker.js": "/app-pando/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/app-pando/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.7ee139fc.chunk.js.LICENSE.txt": "/app-pando/static/js/2.7ee139fc.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/app-pando/static/media/logo.5d5d9eef.svg"
+    "static/css/2.b234b7d0.chunk.css.map": "/app-pando/static/css/2.b234b7d0.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/app-pando/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.c9c7d9ad.chunk.js.LICENSE.txt": "/app-pando/static/js/2.c9c7d9ad.chunk.js.LICENSE.txt",
+    "static/media/PANTO.png": "/app-pando/static/media/PANTO.2d18a2c8.png",
+    "static/media/logimg.svg": "/app-pando/static/media/logimg.eec0ddf7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bc2693c3.js",
-    "static/js/2.7ee139fc.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.6758e3dc.chunk.js"
+    "static/js/runtime-main.36d30237.js",
+    "static/css/2.b234b7d0.chunk.css",
+    "static/js/2.c9c7d9ad.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.d66759e8.chunk.js"
   ]
 }

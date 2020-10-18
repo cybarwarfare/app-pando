@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/app-pando/precache-manifest.089459a555165aa2a15b1fd7163dc949.js"
+  "/app-pando/precache-manifest.f67421cd57a72e2fffc7586fab0b3209.js"
 );
 
 self.addEventListener('message', (event) => {
